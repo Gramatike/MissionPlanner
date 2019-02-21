@@ -5,6 +5,10 @@ using System.IO;
 using MissionPlanner.Utilities;
 using Microsoft.Scripting.Hosting;
 
+
+// good website https://diydrones.com/profiles/blogs/python-scripting-in-mission-planner
+//
+
 namespace MissionPlanner
 {
     public class Script
